@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969092304284",
+    "project_id": "earning-app-bf480",
+    "storage_bucket": "earning-app-bf480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969092304284:android:52b5d65791038e15728c59",
+        "android_client_info": {
+          "package_name": "com.example.earningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969092304284-3r8u02vcsvu7ju2ggl4fv0ab4nhk6boc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Zmr7jvH7FhEpVbsjoxVJ2UXzL9KZN48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969092304284-3r8u02vcsvu7ju2ggl4fv0ab4nhk6boc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
