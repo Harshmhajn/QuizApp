@@ -23,7 +23,8 @@ class MainActivity : AppCompatActivity() {
                binding.ageMain.text.toString().equals("") ||
                binding.EmailMain.text.toString().equals("")||
                binding.passwordMain.text.toString().equals("") ){
-          Toast.makeText(this,"Please fill All The Details",Toast.LENGTH_SHORT).show()
+          Toast.makeText(this,"Please fill All The Details carefully",Toast.LENGTH_SHORT).show()
+
            }else{
                     Firebase.auth.createUserWithEmailAndPassword(binding.EmailMain.text.toString(),binding.passwordMain.text.toString())
                         .addOnCompleteListener {
